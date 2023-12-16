@@ -1,0 +1,10 @@
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\bin\Release\DSP_4_noFFT.exe.config
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\bin\Release\DSP_4_noFFT.exe
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\bin\Release\DSP_4_noFFT.pdb
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.csproj.AssemblyReference.cache
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.Form1.resources
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.Properties.Resources.resources
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.csproj.GenerateResource.cache
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.csproj.CoreCompileInputs.cache
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.exe
+D:\labs\DSP\DSP_4_noFFT\DSP_4_noFFT\obj\Release\DSP_4_noFFT.pdb

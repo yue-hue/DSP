@@ -1,0 +1,10 @@
+D:\labs\DSP\DSP_3\DSP_3\bin\Debug\DSP_3.exe.config
+D:\labs\DSP\DSP_3\DSP_3\bin\Debug\DSP_3.exe
+D:\labs\DSP\DSP_3\DSP_3\bin\Debug\DSP_3.pdb
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.csproj.AssemblyReference.cache
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.Form1.resources
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.Properties.Resources.resources
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.csproj.GenerateResource.cache
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.csproj.CoreCompileInputs.cache
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.exe
+D:\labs\DSP\DSP_3\DSP_3\obj\Debug\DSP_3.pdb
