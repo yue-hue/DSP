@@ -1,6 +1,6 @@
 Digital signal processing, BSUIR, 7th semester
 
-##Lab_1 - Signal generation:
+Lab_1 - Signal generation:
 
 1.1. Generation of carrier signal of various shapes:
   - sinusoid;
@@ -13,7 +13,7 @@ Digital signal processing, BSUIR, 7th semester
 
 1.3. Modulation of parameters (amplitude, frequency) of carrier signals obtained in 1.1 using modulating signals of various shapes
 
-#Lab_2 - Signal exploration using DFT and FFT:
+Lab_2 - Signal exploration using DFT and FFT:
 
 2.1. Generate a harmonic signal, construct its amplitude and phase spectra, restore the original signal from the obtained spectra;
 
